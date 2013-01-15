@@ -1,1 +1,12 @@
+<<<<<<< HEAD
 hello i am kevin
+=======
+#include <stdio.h>
+#include <cstring>
+
+
+main(){
+  printf("Hello World");
+return 0;
+}
+>>>>>>> 9ca680a238c689290eee945ae3ea986048b29919
